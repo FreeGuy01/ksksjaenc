@@ -20,7 +20,7 @@ AUTH_USERS = [909491094]
 # again lol (c) @Animes_Encoded 
 
 SESSION_NAME = "WtfMan"
-TG_BOT_TOKEN = "1782259019:AAEJ5zdYRpB0eyJPjaYgnlPATV0ekj_LjGc"
+TG_BOT_TOKEN = "2131007999:AAF-AGCNtFjzbGF-gV1X2NWIdF_syhS-iG4"
 APP_ID = 5631660
 API_HASH = "0a814444441309bc1f1bb2a0e340242a"
 
@@ -32,7 +32,7 @@ FINISHED_PROGRESS_STR = "▓"
 UN_FINISHED_PROGRESS_STR = "░"
 BOT_START_TIME = time.time()
 LOG_FILE_ZZGEVC = "Log.txt"
-BOT_USERNAME = "moviescomp_bot"
+BOT_USERNAME = "Krispencoder_bot"
 UPDATES_CHANNEL = "botlogas"
 data = []
 crf = []
