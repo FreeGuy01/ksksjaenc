@@ -16,11 +16,11 @@ from bot.config import Config
 
 
 # dont think ne dumb (c) @Animes_Encoded
-AUTH_USERS = [909491094,-1001326987335]
+AUTH_USERS = [1926512688]
 # again lol (c) @Animes_Encoded 
 
 SESSION_NAME = "WtfMan"
-TG_BOT_TOKEN = "1925642873:AAHbN5M2tVQMge1R0ODkFHscqJmcPjMGOXc"
+TG_BOT_TOKEN = "2105330835:AAGY655q5ETyugvQOprWdCwXMS-pAHjsdKg"
 APP_ID = 5631660
 API_HASH = "0a814444441309bc1f1bb2a0e340242a"
 
@@ -32,7 +32,7 @@ FINISHED_PROGRESS_STR = "▓"
 UN_FINISHED_PROGRESS_STR = "░"
 BOT_START_TIME = time.time()
 LOG_FILE_ZZGEVC = "Log.txt"
-BOT_USERNAME = "surle_bot"
+BOT_USERNAME = "Chuckyautobot"
 UPDATES_CHANNEL = "botlogas"
 data = []
 crf = []
